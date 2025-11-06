@@ -1,0 +1,7 @@
+{
+  "name": "Gemini AI Helpdesk Ticket Classifier",
+  "description": "An intelligent dashboard that uses Gemini to classify, analyze, and manage IT helpdesk tickets, providing analytics and actionable insights similar to ServiceNow Predictive Intelligence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
